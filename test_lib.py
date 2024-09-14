@@ -24,7 +24,6 @@ def test_stats():
     """test that checks the data operations is working"""
     general_df = load_and_preprocess(example_csv)
     mean_test = process_mean(general_df, "XOM")
-    median_test = process_median(general_df, "XOM")
     std_test = process_std(general_df, "XOM")
     describe_test = general_df.describe()
     assert describe_test.loc["mean", "XOM"] == mean_test
