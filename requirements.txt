@@ -10,7 +10,6 @@ boto3==1.24.87
 
 #other packages to be installed
 polars 
-ydata_profiling
 pandas==2.0.3       
 nbval==0.10.0   
 matplotlib==3.7.3
