@@ -3,5 +3,16 @@ black==22.3.0
 click==8.1.3
 pytest==7.4.0
 pytest-cov==4.0.0
-pylint==2.15.3
+#pylint==2.15.3
+#rust based linter
+ruff==0.0.284
 boto3==1.24.87
+
+#other packages to be installed
+polars 
+ydata_profiling
+pandas==2.0.3       
+nbval==0.10.0   
+matplotlib==3.7.3
+tabulate==0.9.0
+jupyter == 1.0.0
