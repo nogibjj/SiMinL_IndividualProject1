@@ -1,6 +1,13 @@
 """Main function"""
 
-from mylib.lib import *
+from mylib.lib import (
+    load_and_preprocess,
+    process_mean,
+    process_median,
+    process_std,
+    build_chart,
+    rolling_average,
+)
 
 
 def general_describe(csv):

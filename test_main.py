@@ -1,4 +1,4 @@
-from main import *
+from main import general_describe, custom_describe, save_to_markdown
 
 example_csv = "stocks.csv"
 

@@ -3,7 +3,12 @@ Test goes here
 
 """
 
-from mylib.lib import *
+from mylib.lib import (
+    load_and_preprocess,
+    process_mean,
+    process_median,
+    process_std,
+)
 
 example_csv = "stocks.csv"
 
