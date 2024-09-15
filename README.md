@@ -1,3 +1,8 @@
+[![Lint](https://github.com/nogibjj/SiMinL_IndividualProject1/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/SiMinL_IndividualProject1/actions/workflows/lint.yml)
+[![Install](https://github.com/nogibjj/SiMinL_IndividualProject1/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/SiMinL_IndividualProject1/actions/workflows/install.yml)
+[![Format](https://github.com/nogibjj/SiMinL_IndividualProject1/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/SiMinL_IndividualProject1/actions/workflows/format.yml)
+[![Test](https://github.com/nogibjj/SiMinL_IndividualProject1/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/SiMinL_IndividualProject1/actions/workflows/test.yml)
+
 # Project 1: Continuous Integration using Gitlab Actions of Python Data Science Project
 
 # Youtube Video
