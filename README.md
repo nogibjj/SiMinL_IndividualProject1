@@ -8,10 +8,19 @@ SiMinL_IndividualProject1/
 │   ├── devcontainer.json
 │   └── Dockerfile
 ├── .github/
-│   └── workflows/hello.yml
+│   └── workflows/
+│       ├── format.yml
+│       ├── install.yml
+│       ├── lint.yml
+│       └── test.yml
+├── mylib/
+│   ├── __init__.py
+│   └── lib.py
 ├── .gitignore
-├── chart.png
+├── returnvsrisk.png
+├── rollingaverage.png
 ├── stocks.md
+├── stocks.csv
 ├── Dockerfile
 ├── main.py
 ├── Makefile
@@ -19,6 +28,7 @@ SiMinL_IndividualProject1/
 ├── repeat.sh
 ├── requirements.txt
 ├── setup.sh
+├──test_lib.py
 └── test_main.py
 
 # Requirements
