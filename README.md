@@ -6,6 +6,7 @@
 # Project 1: Continuous Integration using Gitlab Actions of Python Data Science Project
 
 # Explanation Video
+Please change the quality to the highest!
 [[Link]](https://drive.google.com/file/d/1q251P57xbl9tSkWZlgIN6s9_FxiLMo-s/view?usp=drive_link)
 
 # Directory
