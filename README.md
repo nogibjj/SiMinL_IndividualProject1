@@ -11,9 +11,13 @@
 # Directory
 
 SiMinL_IndividualProject1/
+
 ├── .devcontainer/
+
 │   ├── devcontainer.json
+
 │   └── Dockerfile
+
 ├── .github/
 │   └── workflows/
 │       ├── format.yml
