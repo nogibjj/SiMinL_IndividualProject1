@@ -6,7 +6,7 @@
 # Project 1: Continuous Integration using Gitlab Actions of Python Data Science Project
 
 # Youtube Video
-[Link]
+[[Link]](https://drive.google.com/file/d/1q251P57xbl9tSkWZlgIN6s9_FxiLMo-s/view?usp=drive_link)
 
 # Directory
 
@@ -35,7 +35,7 @@ SiMinL_IndividualProject1/
 ├── repeat.sh
 ├── requirements.txt
 ├── setup.sh
-├──test_lib.py
+├── test_lib.py
 └── test_main.py
 
 # Requirements
