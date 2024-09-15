@@ -6,6 +6,7 @@
 # Project 1: Continuous Integration using Gitlab Actions of Python Data Science Project
 
 # Youtube Video
+[Link]
 
 # Directory
 SiMinL_IndividualProject1/
